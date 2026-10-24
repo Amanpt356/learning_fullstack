@@ -4,3 +4,10 @@
 My journey into full-stack development, Python, React, FastAPI, PostgreSQL, and Agentic AI.
 
 Currently learning Git and GitHub.
+
+I am inevitable
+
+## Current Skills
+
+- Git and GitHub
+- Version control fundamentals
