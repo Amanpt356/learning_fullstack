@@ -15,3 +15,8 @@ I am inevitable
 ## Git Branching Practice
 
 I am learning how to create branches and merge changes.
+
+## What I'm Learning Next
+
+- Git branches and merging
+- GitHub Pull Requests
