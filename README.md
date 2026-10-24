@@ -11,3 +11,7 @@ I am inevitable
 
 - Git and GitHub
 - Version control fundamentals
+
+## Git Branching Practice
+
+I am learning how to create branches and merge changes.
