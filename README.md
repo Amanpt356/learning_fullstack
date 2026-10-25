@@ -24,3 +24,7 @@ I am learning how to create branches and merge changes.
 I am learning Git conflict resolution.
 I prefer JavaScript
 I prefer Python.
+
+## My First Full-Stack Journey
+
+I am learning React, FastAPI, PostgreSQL, and Git.
