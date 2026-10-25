@@ -22,3 +22,4 @@ I am learning how to create branches and merge changes.
 - GitHub Pull Requests
 
 I am learning Git conflict resolution.
+I prefer JavaScript
