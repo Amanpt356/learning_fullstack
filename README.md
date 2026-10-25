@@ -20,3 +20,5 @@ I am learning how to create branches and merge changes.
 
 - Git branches and merging
 - GitHub Pull Requests
+
+I am learning Git conflict resolution.
